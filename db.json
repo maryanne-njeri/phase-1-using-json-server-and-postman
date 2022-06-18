@@ -28,6 +28,8 @@
       "content": "This is also an example."
     },
     {
+      "title": "Third Article",
+      "content": "Another example!",
       "id": 3
     }
   ]
